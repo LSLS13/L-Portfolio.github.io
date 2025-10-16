@@ -37,6 +37,10 @@ li {
 td {
    background-color: green; }
 
+th {
+    background-color: green;
+}
+
 a {
     background-color: green;
 }
