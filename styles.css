@@ -7,13 +7,36 @@ background-color: coral;
 
 body {
     color: lightblue;
-}
-
-body {
     font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+    width: fit-content;
+    height: fit-content;
+    padding: 1rem 1rem;
+    margin: 5em auto 0;
+    border-radius: 1em;
+    background-color: green;
+    
 }
 
 a:hover{
-    color: yellow;
-}
+    color: yellow; }
 
+p {
+    background-color: green; }
+
+h1 {
+    border-bottom: 1px solid crimson;
+    background-color: green; }
+
+form {
+    background-color: green; }
+
+li {
+    background-color: green; }
+
+td {
+   background-color: green; }
+
+a {
+    background-color: green;
+}
